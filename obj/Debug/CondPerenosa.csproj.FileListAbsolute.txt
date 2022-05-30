@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CondPerenosa\bin\Debug\CondPerenosa.exe.config
+C:\Users\User\source\repos\CondPerenosa\bin\Debug\CondPerenosa.exe
+C:\Users\User\source\repos\CondPerenosa\bin\Debug\CondPerenosa.pdb
+C:\Users\User\source\repos\CondPerenosa\obj\Debug\CondPerenosa.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CondPerenosa\obj\Debug\CondPerenosa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CondPerenosa\obj\Debug\CondPerenosa.exe
+C:\Users\User\source\repos\CondPerenosa\obj\Debug\CondPerenosa.pdb
